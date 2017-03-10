@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version=“1.0”  encoding=“gb2312” ?>
 <school name='深圳市第一初级中学'>
-  <grade name='一年级'>
-    <class name='2班'>
-      <student name='张三'>
-      </student>
-    </class>
-  </grade>
+	<grade name='一年级'>
+		<class name='2班'>
+			<student name='张三'>
+			</student>
+		</class>
+	</grade>
 </school>
